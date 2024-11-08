@@ -7,7 +7,7 @@
 <hr>
 
 
-<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/thxrx.sh.png" alt="Your Image Badge" width="300px"/></p>
+<p align="center"> <a href="https://tryhackme.com/r/p/thxrx.sh"> <img src="https://tryhackme-badges.s3.amazonaws.com/thxrx.sh.png" alt="thxrx.sh TryHackMe Badge" width="300px"/></p> </a>
 
 
 <div align="center">
@@ -65,12 +65,17 @@
 <br><br>
 
 
+<h3 align="center">
+⚡ Fun fact ⚡
+</h3>
+  
 <h4 align="center">
   
-  ⚡ Fun fact : ``` cat /dev/random ``` **you’ll never know what’s coming 💀**
+  Do ``` cat /dev/random ``` **you’ll never know what’s coming 😉**
   
 </h4> 
 
+<br><br>
 
 <p align="center"><a href="https://www.buymeacoffee.com/thxrxsh" align="center"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thxrxsh" /></a></p><br><br>
 
