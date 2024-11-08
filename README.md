@@ -33,18 +33,31 @@
 
 <h1 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,php,java,bash,jquery,django,fastapi,flask,nodejs,electron,bootstrap,html,css"/>
+    <img src="https://skillicons.dev/icons?i=c,python,js,jquery,php,java,bash,lua,django,fastapi,flask,nodejs,electron,bootstrap"/>
   </a>
 </h1>
 
 <br>
 
 
+<h3 align="center">Machine Learning</h3>
+
+<h1 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn"/>
+  </a>
+</h1>
+
+<br>
+
+
+
+
 <h3 align="center">Tools && Technologies</h3>
 
 <h1 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,postman,anaconda,arduino,raspberrypi,figma,illustrator,photoshop,pr"/>
+    <img src="https://skillicons.dev/icons?i=docker,git,postman,anaconda,cmake,gcp,arduino,raspberrypi,figma,illustrator,photoshop,pr"/>
   </a>
 </h1>
 
