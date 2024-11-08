@@ -16,6 +16,13 @@
 
 </div> 
 
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=thxrxsh&color=38bdae)
+
+</div> 
+
+
 
 <br><br>
 
