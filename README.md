@@ -64,7 +64,7 @@
 
 <h1 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,postman,anaconda,cmake,gcp,arduino,raspberrypi,figma,illustrator,photoshop,pr"/>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman,anaconda,cmake,gcp,arduino,raspberrypi,figma,illustrator,photoshop,pr"/>
   </a>
 </h1>
 
