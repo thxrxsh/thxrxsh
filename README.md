@@ -40,7 +40,7 @@
 
 <h1 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,jquery,php,java,bash,lua,django,fastapi,flask,nodejs,electron,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=c,python,js,jquery,php,java,bash,lua,django,fastapi,flask,nodejs,electron"/>
   </a>
 </h1>
 
